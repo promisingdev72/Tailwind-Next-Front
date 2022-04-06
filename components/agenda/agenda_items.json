@@ -1,0 +1,31 @@
+[
+    {
+        "id":"1",
+        "btnText": "Dîners-débats"
+    },
+    {
+        "id":"2",
+        "btnText": "Dialogue-idées"
+    },
+    {
+        "id":"3",
+        "btnText": "Colloques"
+    },
+    {
+        "id":"4",
+        "btnText": "Groupes de travail"
+    },
+    {
+        "id":"5",
+        "btnText": "Clubs"
+    },
+    {
+        "id":"6",
+        "btnText": "Assemblée générale"
+    },
+    {
+        "id":"7",
+        "btnText": "Voir tous les thèmes"
+    }
+]
+

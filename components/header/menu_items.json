@@ -1,0 +1,22 @@
+[
+    {
+      "label": "Qui sommes-nous ?",
+      "url": "/quisommesnous"
+    },
+    {
+      "label": "Agenda",
+      "url": "/agenda"
+    },
+    {
+      "label": "Publications et presse",
+      "url": "/publications"
+    },
+    {
+      "label": "Formations et services",
+      "url": "/formations"
+    },
+    {
+      "label": "Contact et adhésion",
+      "url": "/contact"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+      "id":"1",
+      "url": "/images/list1.png",
+      "btnText": "Les entretiens de Dialogues",
+      "titleText":"Véronique Dupont",
+      "contentText":"Responsable du Dialogue social en entreprise"
+    },
+    {
+        "id":"2",
+        "url": "/images/list2.png",
+        "btnText": "Les entretiens de Dialogues",
+        "titleText":"François Dargecourt",
+        "contentText":"Responsable du Dialogue social en entreprise"
+      },
+      {
+        "id":"3",
+        "url": "/images/list3.png",
+        "btnText": "Les entretiens de Dialogues",
+        "titleText":"Véronique Dupont",
+        "contentText":"Responsable du Dialogue social en entreprise"
+      }
+]

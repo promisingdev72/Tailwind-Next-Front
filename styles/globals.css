@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@layer base {
+    @font-face {
+        font-family: 'BarlowSemiCondensed';
+        src: url('/fonts/BarlowCondensed/BarlowCondensed-Regular.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'BarlowSemiCondensedBold';
+        src: url('/fonts/BarlowCondensed/BarlowCondensed-Bold.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'BarlowSemiCondensedItalic';
+        src: url('/fonts/BarlowCondensed/BarlowCondensed-LightItalic.ttf') format('truetype');
+    }
+}
+@tailwind utilities;
+
+.triangle::before{
+    content: '\25B6';
+    position: absolute;
+    color: #306980;
+    font-size: 20px;
+    left: -20px;
+    top: 0px;
+}
